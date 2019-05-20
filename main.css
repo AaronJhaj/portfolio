@@ -1,0 +1,9 @@
+.head_title{
+  color: red;
+}
+.head_title:hover{
+  color: purple;
+}
+h1 {
+  color: blue;
+}
